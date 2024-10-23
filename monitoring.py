@@ -1,7 +1,3 @@
-# This is a template. 
-# You should modify the functions below to match
-# the signatures determined by the project specification.
-# 
 # This module will access data from the LondonAir Application Programming Interface (API)
 # The API provides access to data to monitoring stations. 
 # 

@@ -1,6 +1,3 @@
-# This is a template. 
-# You should modify the functions below to match
-# the signatures determined by the project specification
 
 import pandas as pd
 import numpy as np
